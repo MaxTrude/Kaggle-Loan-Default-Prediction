@@ -9,3 +9,4 @@ After completing machine learning courses on Coursera in the past I wanted to ap
 
 ## Disclaimer
 The script offers the possibilty to generate a ton of different graphics. I am using PyCharm, so the plots gets nicely arranged in the environment. Clustering the graphics would be one of my next steps :D
+Commentary in the code indicates what plot is defined. Just un-comment the corresponding code pieces if you want to get the visualization. 
