@@ -1,4 +1,4 @@
-# KaggleLoanSuccess_MachineLearning
+# Loan Default Prediction
 Getting first practice with machine learning models after doing coursera courses (by Andre Ng) by experimenting on a "Loan Default Prediction Dataset" dataset form Kaggle. 
 
 Dataset: https://www.kaggle.com/datasets/nikhil1e9/loan-default/code?datasetId=3725579&searchQuery=feature+en
